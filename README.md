@@ -1,1 +1,1 @@
-# czech-radio
+# Czech Radio Analytical Department software projects
