@@ -2,5 +2,4 @@
 
 We create software and methodology to analyze a radio broadcast.
 
-
-Dokumentace https://github.com/czech-radio/organization
+See the documentation repository https://github.com/czech-radio/organization
