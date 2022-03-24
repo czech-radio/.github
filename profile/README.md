@@ -6,6 +6,6 @@
 
 For more about Czech Radio see https://portal.rozhlas.cz/.
 
-## Knowledge base 
+## Documentation 
 
-Visit the private repository https://github.com/czech-radio/organization/.
+We document all internal processes! For more visit our private repository https://github.com/czech-radio/organization/.
