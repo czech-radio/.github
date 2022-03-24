@@ -8,4 +8,4 @@ For more about Czech Radio see https://portal.rozhlas.cz/.
 
 ## Knowledge base 
 
-Visti the private repository https://github.com/czech-radio/organization/.
+Visit the private repository https://github.com/czech-radio/organization/.
