@@ -1,11 +1,7 @@
-# Czech Radio 
-
-## Strategic Development Department
+# Czech Radio: Strategic Development Department
 
 **We create software and methodology to analyze a radio broadcast.**
 
-For more about Czech Radio see https://portal.rozhlas.cz/.
+For additional information about Czech Radio visit https://portal.rozhlas.cz/.
 
-## Documentation 
-
-We document all internal processes! For more visit our private repository https://github.com/czech-radio/organization/.
+If you are an organization member, visit our private [repository](https://github.com/czech-radio/organization/), where we document all internal processes. 
