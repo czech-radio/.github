@@ -2,7 +2,7 @@
 
 **We create software and methodology to analyze Czech Radio broadcasting.**
  
-The task of the *software development section* is, in close cooperation with the *analytical section*, to design and create supporting software in the form of libraries or applications used for radio broadcast analytics.
+The task of the *software section* is, in close cooperation with the *analytical section*, to design and create supporting software in the form of libraries or applications used for radio broadcast analytics.
 
 Some of our projects are freely available on the [organization's website](https://github.com/czech-radio/) as open-source software.
 
