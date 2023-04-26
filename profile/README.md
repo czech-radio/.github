@@ -19,6 +19,6 @@ Some of our projects are freely available on our [GitHub](https://github.com/cze
 |&check;| [openmedia-extract](https://github.com/czech-radio/openmedia-extract)|[releases](https://github.com/czech-radio/openmedia-extract/releases/) | [website](https://czech-radio.github.io/openmedia-extract) |[![build](https://github.com/czech-radio/openmedia-extract/actions/workflows/main.yml/badge.svg)](https://github.com/czech-radio/openmedia-extract/actions/workflows/main.yml) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/15f82cacc7424610be55b4b599f26f7d)](https://app.codacy.com/gh/czech-radio/openmedia-arrange/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade) ![version](https://img.shields.io/badge/version-0.9.0-blue.svg) 
 |&cross;|[analytics](https://github.com/czech-radio/analytics)|releases|website|build, style, version
 |&cross;|[broadcast](https://github.com/czech-radio/broadcast)|releases|website|build, style, version
-|&cross;|[transcripts](https://github.com/czech-radio/transcripts) | releases|website|build, style, version
-|&cross;|[respondents](https://github.com/czech-radio/respondents) | releases|website|build, style, version
+|&cross;|[transcript](https://github.com/czech-radio/transcript) | releases|website|build, style, version
+|&cross;|[respondent](https://github.com/czech-radio/respondent) | releases|website|build, style, version
 |&cross;|[respondent-match](https://github.com/czech-radio/respondent-match) | releases|website|build, style, version
