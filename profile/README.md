@@ -20,4 +20,5 @@ Some of our projects are freely available on our [GitHub](https://github.com/cze
 |&cross;|[analytics](https://github.com/czech-radio/analytics)|releases|website|build, style, version
 |&cross;|[broadcast](https://github.com/czech-radio/broadcast)|releases|website|build, style, version
 |&cross;|[transcripts](https://github.com/czech-radio/transcripts) | releases|website|build, style, version
-|&cross;|[respondents](https://github.com/czech-radio/broadcast-tracking-service) | releases|website|build, style, version
+|&cross;|[respondents](https://github.com/czech-radio/respondents) | releases|website|build, style, version
+|&cross;|[respondent-match](https://github.com/czech-radio/respondent-match) | releases|website|build, style, version
