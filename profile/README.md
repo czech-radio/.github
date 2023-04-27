@@ -23,3 +23,4 @@ Some of our projects are freely available on our [GitHub](https://github.com/cze
 |&cross;|[transcript](https://github.com/czech-radio/transcript) | releases|website|build, style, version
 |&cross;|[respondent](https://github.com/czech-radio/respondent) | releases|website|build, style, version
 |&cross;|[respondent-match](https://github.com/czech-radio/respondent-match) | releases|website|build, style, version
+|&cross;|[respondent-resolve](https://github.com/czech-radio/respondent-resolve) | releases|website|build, style, version
