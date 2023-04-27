@@ -24,3 +24,5 @@ Some of our projects are freely available on our [GitHub](https://github.com/cze
 |&cross;|[respondent](https://github.com/czech-radio/respondent) | releases|website|build, style, version
 |&cross;|[respondent-match](https://github.com/czech-radio/respondent-match) | releases|website|build, style, version
 |&cross;|[respondent-resolve](https://github.com/czech-radio/respondent-resolve) | releases|website|build, style, version
+|&cross;|[respondent-name-parser](https://github.com/czech-radio/respondent-name-parser) | releases|website|build, style, version
+|&cross;|[respondent-label-classifier](https://github.com/czech-radio/respondent-label-classifier) | releases|website|build, style, version
