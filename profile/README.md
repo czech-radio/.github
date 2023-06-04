@@ -30,4 +30,7 @@ Some of our projects are freely available on our [GitHub](https://github.com/cze
 |&cross;|[respondent-label-classifier](https://github.com/czech-radio/respondent-label-classifier) | | |
 |&cross;|[logs](https://github.com/czech-radio/logs) | | |
 
+## Exercises
+
+- https://github.com/czech-radio/assignment
 
