@@ -22,7 +22,7 @@ Some of our projects are freely available on our [GitHub](https://github.com/cze
 |&check;|[shows-scraper](https://github.com/czech-radio/shows-scraper) | releases|website|[![main](https://github.com/czech-radio/shows-scraper/actions/workflows/main.yml/badge.svg)](https://github.com/czech-radio/shows-scraper/actions/workflows/main.yml) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/518b8ee5b79240e78d3b955beb19d393)](https://app.codacy.com/gh/czech-radio/selected-shows-scraper/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade) ![version](https://img.shields.io/badge/version-0.10.0-blue.svg) 
 |&cross;|[analytics](https://github.com/czech-radio/analytics)| | |
 |&cross;|[broadcast](https://github.com/czech-radio/broadcast)| | |
-|&cross;|[transcript](https://github.com/czech-radio/transcript) | | |
+|&cross;|[transcript](https://github.com/czech-radio/transcript) | | |  [ ![build](https://github.com/czech-radio/transcript/actions/workflows/server.yml/badge.svg)](https://github.com/czech-radio/transcript/actions/workflows/server.yml) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/b68c6f5c2e204ac2b56581625dd336d1)](https://www.codacy.com/gh/czech-radio/transcript/dashboard?utm_source=github.com&utm_medium=referral&utm_content=czech-radio/transcript&utm_campaign=Badge_Grade) 
 |&cross;|[respondent](https://github.com/czech-radio/respondent) | | |
 |&cross;|[respondent-match](https://github.com/czech-radio/respondent-match) | | |
 |&cross;|[respondent-resolve](https://github.com/czech-radio/respondent-resolve) |  | |
