@@ -29,5 +29,6 @@ Some of our projects are freely available on our [GitHub](https://github.com/cze
 14|&cross;|[respondent-name-parser](https://github.com/czech-radio/respondent-name-parser) | | |
 15|&cross;|[respondent-label-classifier](https://github.com/czech-radio/respondent-label-classifier) | | |
 16|&cross;|[logs](https://github.com/czech-radio/logs) | | |
-17|&check;|[assignment]( https://github.com/czech-radio/assignment) | | |
+17|&check;|[assignment](https://github.com/czech-radio/assignment) | | |
+18|&check;|[workflows](https://github.com/czech-radio/workflows) | | |
 
