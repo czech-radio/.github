@@ -9,8 +9,10 @@ Some of our projects are freely available on our [GitHub](https://github.com/cze
 - For additional information about Czech Radio, visit the [portal](https://portal.rozhlas.cz/).
 - If you are an organization member, visit our private [knowledge base](https://github.com/czech-radio/organization/).
 
-## Software
+<details>
 
+<summary>Software</summary>
+ 
 |#|Public | Name | Releases | Website | Status (build, style, version) |
 |-|-|------|----------|---------|--------|
 1|&check;| [geneea](https://github.com/czech-radio/geneea)|releases|website|![build](https://github.com/czech-radio/geneea/actions/workflows/main.yml/badge.svg) [![quality](https://app.codacy.com/project/badge/Grade/da3fb452af474ddc940eb0194da8b6f9)](https://www.codacy.com/gh/czech-radio/acro-geneea-sdk/dashboard?utm_source=github.com&utm_medium=referral&utm_content=czech-radio/cro-geneea-sdk&utm_campaign=Badge_Grade) ![version](https://img.shields.io/badge/version-0.6.0-blue.svg)
@@ -34,4 +36,4 @@ Some of our projects are freely available on our [GitHub](https://github.com/cze
 19|&cross;|[broadcats](https://github.com/czech-radio/broadcast) | | |
 20|&cross;|[archive](https://github.com/czech-radio/archive) | | |
 
-
+</details>
