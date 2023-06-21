@@ -12,6 +12,8 @@ Some of our projects are freely available on our [GitHub](https://github.com/cze
 <details>
 
 <summary>Software</summary>
+
+When something fails, go and fix it
  
 |#|Public | Name | Releases | Website | Status (build, style, version) |
 |-|-|------|----------|---------|--------|
@@ -22,8 +24,8 @@ Some of our projects are freely available on our [GitHub](https://github.com/cze
 5|&check;| [openmedia-extract](https://github.com/czech-radio/openmedia-extract)|[releases](https://github.com/czech-radio/openmedia-extract/releases/) | [website](https://czech-radio.github.io/openmedia-extract) |[![build](https://github.com/czech-radio/openmedia-extract/actions/workflows/main.yml/badge.svg)](https://github.com/czech-radio/openmedia-extract/actions/workflows/main.yml) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/15f82cacc7424610be55b4b599f26f7d)](https://app.codacy.com/gh/czech-radio/openmedia-arrange/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade) ![version](https://img.shields.io/badge/version-0.9.0-blue.svg) 
 6|&cross;| [openmedia-observe](https://github.com/czech-radio/openmedia-observe)| | |
 7|&check;|[shows-scraper](https://github.com/czech-radio/shows-scraper) | releases|website|[![main](https://github.com/czech-radio/shows-scraper/actions/workflows/main.yml/badge.svg)](https://github.com/czech-radio/shows-scraper/actions/workflows/main.yml) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/518b8ee5b79240e78d3b955beb19d393)](https://app.codacy.com/gh/czech-radio/selected-shows-scraper/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade) ![version](https://img.shields.io/badge/version-0.10.0-blue.svg) 
-8|&cross;|[analytics](https://github.com/czech-radio/analytics)| | |
-9|&cross;|[broadcast](https://github.com/czech-radio/broadcast)| | |
+8|&cross;|[analytics](https://github.com/czech-radio/analytics)| | | [![main](https://github.com/czech-radio/analytics/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/czech-radio/analytics/actions/workflows/main.yml) 
+9|&cross;|[broadcast](https://github.com/czech-radio/broadcast)| | | 
 10|&cross;|[transcript](https://github.com/czech-radio/transcript) | | |  [ ![build](https://github.com/czech-radio/transcript/actions/workflows/server.yml/badge.svg)](https://github.com/czech-radio/transcript/actions/workflows/server.yml) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/b68c6f5c2e204ac2b56581625dd336d1)](https://www.codacy.com/gh/czech-radio/transcript/dashboard?utm_source=github.com&utm_medium=referral&utm_content=czech-radio/transcript&utm_campaign=Badge_Grade) 
 11|&cross;|[respondent](https://github.com/czech-radio/respondent) | | | [![server](https://github.com/czech-radio/respondent/actions/workflows/server.yml/badge.svg)](https://github.com/czech-radio/respondent/actions/workflows/server.yml)
 12|&cross;|[respondent-match](https://github.com/czech-radio/respondent-match) | | |
