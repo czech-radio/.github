@@ -13,7 +13,7 @@ Some of our projects are freely available on our [GitHub](https://github.com/cze
 
 <summary>Software</summary>
 
-When something fails, go and fix it
+When something fails, go and fix it!
  
 |#|Public | Name | Releases | Website | Status (build, style, version) |
 |-|-|------|----------|---------|--------|
