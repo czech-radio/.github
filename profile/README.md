@@ -32,8 +32,10 @@ Some of our projects are freely available on our [GitHub](https://github.com/cze
 15|&cross;|[respondent-label-classifier](https://github.com/czech-radio/respondent-label-classifier) | | |
 16|&cross;|[logs](https://github.com/czech-radio/logs) | | |
 17|&check;|[assignment](https://github.com/czech-radio/assignment) | | |
-18|&check;|[workflows](https://github.com/czech-radio/workflows) | | |
-19|&cross;|[broadcats](https://github.com/czech-radio/broadcast) | | |
-20|&cross;|[archive](https://github.com/czech-radio/archive) | | |
+18|&cross;|[solution](https://github.com/czech-radio/solution) | | |
+19|&check;|[workflows](https://github.com/czech-radio/workflows) | | |
+20|&cross;|[broadcats](https://github.com/czech-radio/broadcast) | | |
+21|&cross;|[archive](https://github.com/czech-radio/archive) | | |
+22|&check;|[.github](https://github.com/czech-radio/.github) | | |
 
 </details>
