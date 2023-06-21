@@ -39,5 +39,7 @@ When something fails, go and fix it!
 20|&cross;|[broadcats](https://github.com/czech-radio/broadcast) | | |
 21|&cross;|[archive](https://github.com/czech-radio/archive) | | |
 22|&check;|[.github](https://github.com/czech-radio/.github) | | |
+23|&check;|[irozhlas-analyzer](https://github.com/czech-radio/irozhlas-analyzer) | | |
+24|&check;|[irozhlas-analysis](https://github.com/czech-radio/irozhlas-analysis) | | |
 
 </details>
