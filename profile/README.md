@@ -43,3 +43,19 @@ When something fails, go and fix it!
 24|&check;|[irozhlas-analysis](https://github.com/czech-radio/irozhlas-analysis) | | |
 
 </details>
+
+
+<details>
+
+<summary>Technology</summary>
+
+Our current technological stack. 
+
+- PostgreSQL, SQLite, DuckDB
+- Python (Flask, Pandas, Altair), Go, JavaScript, HTML/CSS
+- Debian, Windows
+- Git, GitHub, GitHub Actions
+- Docker, Nginx
+- PowerShell, Bash
+
+</details>
