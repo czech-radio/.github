@@ -25,7 +25,7 @@ Some of our projects are freely available on our [GitHub](https://github.com/cze
 8|&cross;|[analytics](https://github.com/czech-radio/analytics)| | |
 9|&cross;|[broadcast](https://github.com/czech-radio/broadcast)| | |
 10|&cross;|[transcript](https://github.com/czech-radio/transcript) | | |  [ ![build](https://github.com/czech-radio/transcript/actions/workflows/server.yml/badge.svg)](https://github.com/czech-radio/transcript/actions/workflows/server.yml) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/b68c6f5c2e204ac2b56581625dd336d1)](https://www.codacy.com/gh/czech-radio/transcript/dashboard?utm_source=github.com&utm_medium=referral&utm_content=czech-radio/transcript&utm_campaign=Badge_Grade) 
-11|&cross;|[respondent](https://github.com/czech-radio/respondent) | | |
+11|&cross;|[respondent](https://github.com/czech-radio/respondent) | | | [![server](https://github.com/czech-radio/respondent/actions/workflows/server.yml/badge.svg)](https://github.com/czech-radio/respondent/actions/workflows/server.yml)
 12|&cross;|[respondent-match](https://github.com/czech-radio/respondent-match) | | |
 13|&cross;|[respondent-resolve](https://github.com/czech-radio/respondent-resolve) |  | |
 14|&cross;|[respondent-name-parser](https://github.com/czech-radio/respondent-name-parser) | | |
