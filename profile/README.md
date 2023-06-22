@@ -48,11 +48,11 @@ When something fails, go and fix it!
 
 <summary><strong>Technology</strong></summary>
 
-Our current technological stack. 
+Our current technological stack includes: 
 
-- PostgreSQL, SQLite, DuckDB
-- Python (Flask, Pandas, Altair), Go, JavaScript, HTML/CSS
 - Debian, Windows
+- Python (Flask, Pandas, Altair), Go, JavaScript, HTML/CSS
+- PostgreSQL, SQLite, DuckDB
 - Git, GitHub, GitHub Actions
 - Docker, Nginx
 - PowerShell, Bash
