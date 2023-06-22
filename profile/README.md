@@ -11,7 +11,7 @@ Some of our projects are freely available on our [GitHub](https://github.com/cze
 
 <details>
 
-<summary>Software</summary>
+<summary><strong>Software</strong></summary>
 
 When something fails, go and fix it!
  
@@ -44,10 +44,9 @@ When something fails, go and fix it!
 
 </details>
 
-
 <details>
 
-<summary>Technology</summary>
+<summary><strong>Technology</strong></summary>
 
 Our current technological stack. 
 
