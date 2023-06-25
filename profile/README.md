@@ -41,6 +41,7 @@ When something fails, go and fix it!
 22|&check;|[.github](https://github.com/czech-radio/.github) | | |
 23|&check;|[irozhlas-analyzer](https://github.com/czech-radio/irozhlas-analyzer) | | |
 24|&check;|[irozhlas-analysis](https://github.com/czech-radio/irozhlas-analysis) | | |
+25|&cross;|[rapi](https://github.com/czech-radio/rapi) | | |
 
 </details>
 
