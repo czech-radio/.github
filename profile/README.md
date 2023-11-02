@@ -1,4 +1,4 @@
-# Czech Radio: Strategic Development Department
+# Strategic Development Department
 
 **We create software and methodology to analyze Czech Radio broadcasting.**
  
