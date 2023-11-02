@@ -20,9 +20,10 @@ Our current technological stack includes:
 - Nginx, Docker/Podman
 - PowerShell, Bash
 
-<details>
+## Software
 
-<summary><strong>Software</strong></summary>
+<details>
+<summary><strong>expand</strong></summary>
 
 When something fails, go and fix it!
  
