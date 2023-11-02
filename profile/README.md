@@ -9,6 +9,17 @@ Some of our projects are freely available on our [GitHub](https://github.com/cze
 - For additional information about Czech Radio, visit the [portal](https://portal.rozhlas.cz/).
 - If you are an organization member, visit our private [knowledge base](https://github.com/czech-radio/organization/).
 
+## Technology
+
+Our current technological stack includes: 
+
+- Linux and Windows
+- Python with Flask, Pandas, and Altair, Go, JavaScript (vanilla and React.js), HTML/CSS
+- PostgreSQL, SQLite, DuckDB
+- Git, GitHub and GitHub Actions
+- Nginx, Docker/Podman
+- PowerShell, Bash
+
 <details>
 
 <summary><strong>Software</strong></summary>
@@ -42,30 +53,5 @@ When something fails, go and fix it!
 23|&check;|[irozhlas-analyzer](https://github.com/czech-radio/irozhlas-analyzer) | | |
 24|&check;|[irozhlas-analysis](https://github.com/czech-radio/irozhlas-analysis) | | |
 25|&cross;|[rapi](https://github.com/czech-radio/rapi) | | | [![main](https://github.com/czech-radio/rapi/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/czech-radio/rapi/actions/workflows/main.yml) ![version](https://img.shields.io/badge/version-0.9.0-blue.svg) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/238d42622d25443c8dc71b60e38efb6b)](https://app.codacy.com/gh/czech-radio/rapi/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
-
-</details>
-
-
-<details>
-<summary>
- <strong>Outcomes</strong>
-</summary>
-
-To be written&hellip;
-
-</details>
-
-<details>
-
-<summary><strong>Technology</strong></summary>
-
-Our current technological stack includes: 
-
-- Debian, Windows
-- Python (Flask, Pandas, Altair), Go, JavaScript, HTML/CSS
-- PostgreSQL, SQLite, DuckDB
-- Git, GitHub, GitHub Actions
-- Docker, Nginx
-- PowerShell, Bash
 
 </details>
