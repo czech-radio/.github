@@ -43,7 +43,7 @@ When something fails, go and fix it!
 12|&cross;|[respondent-match](https://github.com/czech-radio/respondent-match) | | |
 13|&cross;|[respondent-resolve](https://github.com/czech-radio/respondent-resolve) |  | |
 14|&cross;|[respondent-name-parser](https://github.com/czech-radio/respondent-name-parser) | | |
-15|&cross;|[respondent-label-classifier](https://github.com/czech-radio/respondent-label-classifier) | | |
+15|&cross;|[respondent-classifier](https://github.com/czech-radio/respondent-classifier) | | |
 16|&cross;|[logs](https://github.com/czech-radio/logs) | | |
 17|&check;|[assignment](https://github.com/czech-radio/assignment) | | |
 18|&cross;|[solution](https://github.com/czech-radio/solution) | | |
