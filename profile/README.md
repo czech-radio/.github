@@ -14,7 +14,7 @@ Some of our projects are freely available on our [GitHub](https://github.com/cze
 ## Overview
 
 <details>
-<summary><strong><h3>Software</h3></strong></summary>
+<summary><strong>Software</strong></summary>
 When something fails, go and fix it!
  
 |#|Public | Name | Releases | Website | Status (build, style, version) |
@@ -47,7 +47,7 @@ When something fails, go and fix it!
 </details>
 
 <details>
-<summary><h3>Technology</h3></summary>
+<summary>Technology</summary>
  
 Our current technological stack includes: 
 
