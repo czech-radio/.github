@@ -44,7 +44,9 @@ When something fails, go and fix it!
 
 <details>
 <summary><h2>Technology</h2></summary>
+ 
 Our current technological stack includes: 
+
 - Linux and Windows
 - Python with Flask, Pandas, and Altair, Go, JavaScript (vanilla and React.js), HTML/CSS
 - PostgreSQL, SQLite, DuckDB
