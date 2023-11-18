@@ -41,9 +41,7 @@ When something fails, go and fix it!
 20|&cross;|[broadcats](https://github.com/czech-radio/broadcast) | | |
 21|&cross;|[archive](https://github.com/czech-radio/archive) | | |
 22|&check;|[.github](https://github.com/czech-radio/.github) | | |
-23|&check;|[irozhlas-analyzer](https://github.com/czech-radio/irozhlas-analyzer) | | |
-24|&check;|[irozhlas-analysis](https://github.com/czech-radio/irozhlas-analysis) | | |
-25|&cross;|[rapi](https://github.com/czech-radio/rapi) | | | [![main](https://github.com/czech-radio/rapi/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/czech-radio/rapi/actions/workflows/main.yml) ![version](https://img.shields.io/badge/version-0.9.0-blue.svg) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/238d42622d25443c8dc71b60e38efb6b)](https://app.codacy.com/gh/czech-radio/rapi/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+23|&cross;|[rapi](https://github.com/czech-radio/rapi) | | | [![main](https://github.com/czech-radio/rapi/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/czech-radio/rapi/actions/workflows/main.yml) ![version](https://img.shields.io/badge/version-0.9.0-blue.svg) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/238d42622d25443c8dc71b60e38efb6b)](https://app.codacy.com/gh/czech-radio/rapi/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 </details>
 
 <details>
