@@ -1,6 +1,8 @@
 # Strategic Development Department
 
 **We create software and methodology to analyze Czech Radio broadcasting.**
+
+## About
  
 The task of the *software section* is, in close cooperation with the *analytical section*, to design and create supporting software in the form of libraries and applications used for radio broadcast analytics.
 
@@ -9,8 +11,10 @@ Some of our projects are freely available on our [GitHub](https://github.com/cze
 - For additional information about Czech Radio, visit the [portal](https://portal.rozhlas.cz/).
 - If you are an organization member, visit our private [knowledge base](https://github.com/czech-radio/organization/).
 
+## Overview
+
 <details>
-<summary><strong><h2>Software</h2></strong></summary>
+<summary><strong><h3>Software</h3></strong></summary>
 When something fails, go and fix it!
  
 |#|Public | Name | Releases | Website | Status (build, style, version) |
@@ -43,7 +47,7 @@ When something fails, go and fix it!
 </details>
 
 <details>
-<summary><h2>Technology</h2></summary>
+<summary><h3>Technology</h3></summary>
  
 Our current technological stack includes: 
 
