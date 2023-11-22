@@ -38,10 +38,9 @@ When something fails, go and fix it!
 17|&check;|[assignment](https://github.com/czech-radio/assignment) | | |
 18|&cross;|[solution](https://github.com/czech-radio/solution) | | |
 19|&check;|[workflows](https://github.com/czech-radio/workflows) | | |
-20|&cross;|[broadcats](https://github.com/czech-radio/broadcast) | | |
-21|&cross;|[archive](https://github.com/czech-radio/archive) | | |
-22|&check;|[.github](https://github.com/czech-radio/.github) | | |
-23|&cross;|[rapi](https://github.com/czech-radio/rapi) | | | [![main](https://github.com/czech-radio/rapi/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/czech-radio/rapi/actions/workflows/main.yml) ![version](https://img.shields.io/badge/version-0.9.0-blue.svg) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/238d42622d25443c8dc71b60e38efb6b)](https://app.codacy.com/gh/czech-radio/rapi/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+20|&cross;|[archive](https://github.com/czech-radio/archive) | | |
+21|&check;|[.github](https://github.com/czech-radio/.github) | | |
+22|&cross;|[rapi](https://github.com/czech-radio/rapi) | | | [![main](https://github.com/czech-radio/rapi/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/czech-radio/rapi/actions/workflows/main.yml) ![version](https://img.shields.io/badge/version-0.9.0-blue.svg) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/238d42622d25443c8dc71b60e38efb6b)](https://app.codacy.com/gh/czech-radio/rapi/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 </details>
 
 <details>
