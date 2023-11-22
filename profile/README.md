@@ -17,7 +17,7 @@ Some of our projects are freely available on our [GitHub](https://github.com/cze
 <summary><strong>Software</strong></summary>
 When something fails, go and fix it!
  
-|#|Public | Name | Releases | Website | Status (build, style, version) |
+|#|Public | Name | Release | Website | Status |
 |-|-|------|----------|---------|--------|
 1|&check;| [geneea](https://github.com/czech-radio/geneea)|releases|website|![build](https://github.com/czech-radio/geneea/actions/workflows/main.yml/badge.svg) [![quality](https://app.codacy.com/project/badge/Grade/da3fb452af474ddc940eb0194da8b6f9)](https://www.codacy.com/gh/czech-radio/acro-geneea-sdk/dashboard?utm_source=github.com&utm_medium=referral&utm_content=czech-radio/cro-geneea-sdk&utm_campaign=Badge_Grade) ![version](https://img.shields.io/badge/version-0.6.0-blue.svg)
 2|&check;| [schedule](https://github.com/czech-radio/schedule)|[releases](https://github.com/czech-radio/schedule/releases/) | [website](https://czech-radio.github.io/schedule) |[![build](https://github.com/czech-radio/schedule/actions/workflows/main.yml/badge.svg)](https://github.com/czech-radio/schedule/actions/workflows/main.yml) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/b68c6f5c2e204ac2b56581625dd336d1)](https://www.codacy.com/gh/czech-radio/schedule/dashboard?utm_source=github.com&utm_medium=referral&utm_content=czech-radio/schedule&utm_campaign=Badge_Grade) ![version](https://img.shields.io/badge/version-1.1.0-blue.svg)
@@ -32,7 +32,7 @@ When something fails, go and fix it!
 11|&cross;|[respondent](https://github.com/czech-radio/respondent) | | | [![server](https://github.com/czech-radio/respondent/actions/workflows/server.yml/badge.svg)](https://github.com/czech-radio/respondent/actions/workflows/server.yml)
 12|&cross;|[respondent-match](https://github.com/czech-radio/respondent-match) | | |
 13|&cross;|[respondent-resolve](https://github.com/czech-radio/respondent-resolve) |  | |
-14|&cross;|[respondent-name-parser](https://github.com/czech-radio/respondent-name-parser) | | |
+14|&cross;|[respondent-parse](https://github.com/czech-radio/respondent-name-parse) | | |
 15|&cross;|[respondent-classifier](https://github.com/czech-radio/respondent-classifier) | | |
 16|&cross;|[logs](https://github.com/czech-radio/logs) | | |
 17|&check;|[assignment](https://github.com/czech-radio/assignment) | | |
