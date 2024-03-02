@@ -31,16 +31,15 @@ When something fails, go and fix it!
 10|&cross;|[transcript](https://github.com/czech-radio/transcript) | | |  [ ![build](https://github.com/czech-radio/transcript/actions/workflows/server.yml/badge.svg)](https://github.com/czech-radio/transcript/actions/workflows/server.yml) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/b68c6f5c2e204ac2b56581625dd336d1)](https://www.codacy.com/gh/czech-radio/transcript/dashboard?utm_source=github.com&utm_medium=referral&utm_content=czech-radio/transcript&utm_campaign=Badge_Grade) 
 11|&cross;|[respondent](https://github.com/czech-radio/respondent) | | | [![server](https://github.com/czech-radio/respondent/actions/workflows/server.yml/badge.svg)](https://github.com/czech-radio/respondent/actions/workflows/server.yml)
 12|&cross;|[respondent-match](https://github.com/czech-radio/respondent-match) | | |
-13|&cross;|[respondent-resolve](https://github.com/czech-radio/respondent-resolve) |  | |
-14|&cross;|[respondent-parse](https://github.com/czech-radio/respondent-name-parse) | | |
-15|&cross;|[respondent-classify](https://github.com/czech-radio/respondent-classifier) | | |
-16|&cross;|[logs](https://github.com/czech-radio/logs) | | |
-17|&check;|[assignment](https://github.com/czech-radio/assignment) | | |
-18|&cross;|[solution](https://github.com/czech-radio/solution) | | |
-19|&check;|[services](https://github.com/czech-radio/services) | | |
-20|&cross;|[archive](https://github.com/czech-radio/archive) | | |
-21|&check;|[.github](https://github.com/czech-radio/.github) | | |
-22|&cross;|[rapi](https://github.com/czech-radio/rapi) | | | [![main](https://github.com/czech-radio/rapi/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/czech-radio/rapi/actions/workflows/main.yml) ![version](https://img.shields.io/badge/version-0.9.0-blue.svg) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/238d42622d25443c8dc71b60e38efb6b)](https://app.codacy.com/gh/czech-radio/rapi/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+13|&cross;|[respondent-parse](https://github.com/czech-radio/respondent-name-parse) | | |
+14|&cross;|[respondent-classify](https://github.com/czech-radio/respondent-classifier) | | |
+15|&cross;|[logs](https://github.com/czech-radio/logs) | | |
+16|&check;|[assignment](https://github.com/czech-radio/assignment) | | |
+17|&cross;|[solution](https://github.com/czech-radio/solution) | | |
+18|&check;|[services](https://github.com/czech-radio/services) | | |
+19|&cross;|[archive](https://github.com/czech-radio/archive) | | |
+20|&check;|[.github](https://github.com/czech-radio/.github) | | |
+21|&cross;|[rapi](https://github.com/czech-radio/rapi) | | | [![main](https://github.com/czech-radio/rapi/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/czech-radio/rapi/actions/workflows/main.yml) ![version](https://img.shields.io/badge/version-0.9.0-blue.svg) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/238d42622d25443c8dc71b60e38efb6b)](https://app.codacy.com/gh/czech-radio/rapi/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 </details>
 
 <details>
